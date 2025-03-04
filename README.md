@@ -1,3 +1,4 @@
+# About Me:
 - 👋 Hi, I'm Huy Vu
 - 👀 I’m a Student at San Jose City College
 - 🌱 I’m currently learning Computer Science majoring Web Development
@@ -9,6 +10,7 @@
 - XML
 - Javascript
 - HTML
+
 ### Current Skills:
 Writing simple website on local server
 
